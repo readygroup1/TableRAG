@@ -1,0 +1,17 @@
+faiss-cpu
+fire
+google-cloud-aiplatform
+langchain
+numpy
+openai
+openpyxl
+pandas
+tabulate
+tenacity
+tiktoken
+tqdm
+langchain-openai
+langchain_google_vertexai
+vllm
+google-cloud-aiplatform[vertexai]
+transformers
