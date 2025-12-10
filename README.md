@@ -1,4 +1,4 @@
-# Google Research
+# TableRAG Research Source Code
 
 This repository contains code released by
 [Google Research](https://research.google).
