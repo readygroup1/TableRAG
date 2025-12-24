@@ -10,6 +10,8 @@ This project focuses on **system design, retrieval strategies, and empirical eva
 
 **TableRAG decouples table size from prompt size** by retrieving only the relevant schema and values. This project demonstrates when this approach works well using real benchmarks.
 
+See [`./report.pdf`](./report.pdf) for the written research report of our project.
+
 ---
 
 ## Construction
