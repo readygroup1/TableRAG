@@ -1,7 +1,5 @@
 # TableRAG: A More Effective Method for LLMs to Reason and Act Over Large Datasets
 
----
-
 This project **re-implements and extends TableRAG**, a retrieval-augmented generation (RAG) system designed to let large language models reason over **very large tables (up to millions of cells)** that traditionally do not fit within an LLM’s context window.
 
 This project focuses on **system design, retrieval strategies, and empirical evaluation**, not just prompt engineering. The reason for this expirement is derived from how LLMs are traditionally fed tables which:
